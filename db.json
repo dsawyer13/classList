@@ -1,24 +1,29 @@
 {
     "classes": [
         {
-            "name": "Sync Class",
+            "Authy Class",
             "date": "10/23/21",
-            "time": "10:00AM"
-        },
+            "time": "12:00PM"
+        }
         {
             "name": "Flex Class",
             "date": "10/23/21",
             "time": "12:00PM"
         },
         {
+            "name": "Frontline Class",
+            "date": "10/23/21",
+            "time": "3:00PM"
+        }
+        {
             "name": "Superclass",
             "date": "10/23/21",
             "time": "1:00PM"
         },
         {
-            "name": "Frontline Class",
+            "name": "Sync Class",
             "date": "10/23/21",
-            "time": "3:00PM"
-        }
+            "time": "10:00AM"
+        },
     ]
 }
